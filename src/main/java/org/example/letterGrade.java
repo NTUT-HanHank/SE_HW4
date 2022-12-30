@@ -1,6 +1,6 @@
 package org.example;
 
-class Grade{
+class letterGrade{
     public static char letterGrade(int score) {
         char grade;
         if (score <0 || score > 100)
