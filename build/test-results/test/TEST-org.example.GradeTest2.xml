@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.GradeTest2" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-12-30T13:48:41" hostname="DESKTOP-ARJNRQS" time="0.017">
+  <properties/>
+  <testcase name="Test99_101()" classname="org.example.GradeTest2" time="0.014"/>
+  <testcase name="Test1ToMinus1()" classname="org.example.GradeTest2" time="0.0"/>
+  <testcase name="Test59_61()" classname="org.example.GradeTest2" time="0.0"/>
+  <testcase name="Test69_71()" classname="org.example.GradeTest2" time="0.0"/>
+  <testcase name="Test79_81()" classname="org.example.GradeTest2" time="0.0"/>
+  <testcase name="Test89_91()" classname="org.example.GradeTest2" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
